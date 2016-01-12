@@ -1,0 +1,12 @@
+.yellow {
+    background-color: yellow;
+    border-color: yellow;
+}
+#two {
+    float: right;
+    color: red;
+    font-size: 45;
+}
+#three {
+    color:blue;
+}
